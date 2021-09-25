@@ -1,0 +1,7 @@
+1- Python 3.8
+
+2- Install numpy package
+pip install numpy
+
+3-Install matplotlib package
+pip install matplotlib
